@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include<Windows.h>
 
 using namespace std;
